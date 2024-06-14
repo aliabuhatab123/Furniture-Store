@@ -1,4 +1,4 @@
-# E-Commerce Furniture Store | Personal Project
+# Full Stack E-Commerce Furniture Store | Personal Project
 
 -Let's connect, you can find my LinkedIn profile through this link: [https://www.linkedin.com/in/ali-abu-hatab/]
 
