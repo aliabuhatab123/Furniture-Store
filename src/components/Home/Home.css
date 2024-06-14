@@ -1,0 +1,118 @@
+
+.hero-section .heading {
+    font-weight: 700;
+    padding-top: 1vh;
+}
+
+.hero-section .the-best {
+    background-color: white;
+    max-width: 300px;
+    padding: 12px 15px;
+    border-radius: 25px;
+    font-weight: 600;
+}
+.hero-section {
+    display: flex;
+    margin-left: 20px; 
+    margin-right: 20px;
+    padding: 1vw;
+    padding-top: 60px;
+}
+
+.hero-section .sub-heading {
+    font-size: 1.2rem;
+    width: 80%;
+    font-weight: 100;
+    padding-top: 1vw;
+}
+
+.hero-section .shop-hero {
+    display: flex;
+    justify-content: space-between;
+    width: 140px;
+    background: #214A25;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    display: flex;
+    width: 300px;
+    align-items: center;
+    margin-top: 45px;
+    justify-content: space-between;
+}
+
+.bottom-left a.viewAll {
+    text-decoration: underline;
+}
+
+/* product slider */
+
+.productSlider {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    height: 100%;
+}
+
+
+.productSlider .product {
+    height: 100%;
+    /* max-width: 500px; */
+    padding: 10px;
+    border: 1px solid rgba(228, 145, 145, 0.176);
+    border-radius: 22px;
+}
+.productSlider .product:hover {
+    box-shadow: rgba(100, 100, 111, 0.081) 0px 7px 29px 0px;
+}
+.productSlider .product img {
+    border-radius: 30px;
+    padding: 5px;
+    height: 75%;
+    object-fit: cover;
+}
+
+.productSlider .product .bottom {
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.productSlider .product .bottom .left h3 {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+
+.productSlider .product .bottom .right {
+    background-color: #214A25;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    align-content: center;
+    border-radius: 45px;
+    color: white;
+}
+
+
+/* featuredProducts */
+
+/*  */
+
+.featuredProducts .product {
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    padding:20px;
+    border-radius: 25px;
+}
+
+
+.featuredProducts .product img {
+border-radius: 10px;
+object-fit: cover;
+}
