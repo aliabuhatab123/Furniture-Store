@@ -126,7 +126,6 @@ In summary, I have implemented successfully an ecommerce web store with basic fu
 
 ## 8. References
 - W3Schools
-- Zoom Lectures
 - React and TailwindCSS online Documentation
 - PHP Documentation.
 - YouTube Tutorials.
