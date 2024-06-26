@@ -2,8 +2,6 @@
 
 -Let's connect, you can find my LinkedIn profile through this link: [https://www.linkedin.com/in/ali-abu-hatab/]
 
-# Furniture Store E-commerce Project
-
 ## 1. Abstract
 The business of ecommerce nowadays is the most visible business use of the World Wide Web. The main goal of an e-commerce webstores is to sell goods and services online. This full stack project is a web-based shopping system designed for the furniture market. The project objective is to create a responsive website that enhances the shopping experience for users. Moreover, it's providing a powerful administration management system.
 
